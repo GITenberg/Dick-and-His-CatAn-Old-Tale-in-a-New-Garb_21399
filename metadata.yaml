@@ -1,0 +1,30 @@
+_repo: Dick-and-His-CatAn-Old-Tale-in-a-New-Garb_21399
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21399-h/images/dahc_cover.jpg
+creator:
+  author:
+    agent_name: Ellis, Mary
+    gutenberg_agent_id: '9898'
+    url: http://www.gutenberg.org/2009/agents/9898
+description: ''
+gutenberg_issued: '2007-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Whittington, Richard, -1423 -- Juvenile fiction'
+title: 'Dick and His Cat
+
+  An Old Tale in a New Garb'
+url: http://www.gutenberg.org/ebooks/21399
